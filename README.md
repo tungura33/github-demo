@@ -1,2 +1,3 @@
 # github-demo
-this my first github repo
+This my first github repo
+Author : tungura
